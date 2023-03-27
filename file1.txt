@@ -1,1 +1,2 @@
 Echo this into file1
+New Change 1
